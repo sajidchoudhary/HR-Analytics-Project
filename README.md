@@ -10,7 +10,7 @@ Company have provided multiple attributes around Employee's past and current per
 ![Human_Resource](https://user-images.githubusercontent.com/66259814/102377775-0f361880-3feb-11eb-83cf-897a2a507299.png)
 
 ### Overview:
-This is classification based problem in which 54808 rows and 13 feature's are present applied EDA techniques tried to understand the data, it was target class imbalanced data apply some over sampling and under sampling techniques make target class balanced data make model on M/L algorithm and choose which is giving best accuracy.
+This is classification based problem in which 54808 rows and 13 feature's are present applied EDA techniques tried to understand the data, it was target class imbalanced data apply some over sampling and under sampling techniques make target class balanced data.apply differenet different techniques to handle categorical features, some features are belongs to ordinal some are belongs to nominal , dataset having lots of Missing values and some belongs to Missing completely at Random, Missing not at Random, Missing at Random, make distribution as Normally Distributed by use Transformation Techniques than do Feature Selection in the last train a model using all Machine Leaning algorithm and choose one which will give best F1 score.
 Test Datasets has 23490 rows and 13 features
 
 ### Dataset Description: 
