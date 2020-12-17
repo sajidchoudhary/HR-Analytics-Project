@@ -4,7 +4,7 @@
 
 ### Overview:
 This is classification based problem in which 54808 rows and 13 feature's are present, Large MNC identifying the right people for promotion only for manager position and below.
-in this project try to predict employees most likely to get promotion using by machine learning HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection and processing of data has been largely manual.
+in this project try to predict right employees for promotion using by machine learning HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection and processing of data has been largely manual.
 
 ![Human_Resource](https://user-images.githubusercontent.com/66259814/102377775-0f361880-3feb-11eb-83cf-897a2a507299.png)
 
