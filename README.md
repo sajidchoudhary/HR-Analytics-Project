@@ -4,7 +4,7 @@
 
 ### Overview:
 This is classification based problem in which 54808 rows and 13 feature's are present, Large MNC identifying the right people for promotion only for manager position and below.
-in this project try to predict employees most likely to get promotion using by machine learning HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection, processing and analysis of data has been largely manual.
+in this project try to predict employees most likely to get promotion using by machine learning HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection and processing of data has been largely manual.
 
 ![Human_Resource](https://user-images.githubusercontent.com/66259814/102377775-0f361880-3feb-11eb-83cf-897a2a507299.png)
 
@@ -17,6 +17,3 @@ Company have provided multiple attributes around Employee's past and current per
 
 ### Dataset Description: 
 employee_id(Unique ID for employee), department(Department of employee), region(Region of employment (unordered)), education(Education Level), gender( Gender of Employee), recruitment_channel( Channel of recruitment for employee), no_of_trainings(no of other trainings completed in previous year on soft skills, technical skills etc.), age( Age of Employee), previous_year_rating(Employee Rating for the previous year), length_of_service(Length of service in years), KPIs_met >80%(if Percent of KPIs(Key performance Indicators) >80% then 1 else 0), awards_won?(if awards won during previous year then 1 else 0), avg_training_score(Average score in current training evaluations), is_promoted((Target) Recommended for promotion)
-
-### Source of Dataset:
-https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/
